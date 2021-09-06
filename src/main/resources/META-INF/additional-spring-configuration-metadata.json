@@ -1,0 +1,54 @@
+{
+  "properties": [
+    {
+      "name": "vk.group.id",
+      "type": "java.lang.String",
+      "description": "VK group identifier."
+    },
+    {
+      "name": "vk.secretKey",
+      "type": "java.lang.String",
+      "description": "API secret key."
+    },
+    {
+      "name": "vk.confirmationCode",
+      "type": "java.lang.String",
+      "description": "API validation key."
+    },
+    {
+      "name": "vk.token",
+      "type": "java.lang.String",
+      "description": "Group token."
+    },
+    {
+      "name": "vk.callback.response",
+      "type": "java.lang.String",
+      "description": "Phrase for correct callback handling."
+    },
+    {
+      "name": "bot.name",
+      "type": "java.lang.String",
+      "description": "Bot name."
+    },
+    {
+      "name": "vk.api.url",
+      "type": "java.lang.String",
+      "description": "Api vk base url."
+    },
+    {
+      "name": "vk.api.version",
+      "type": "java.lang.String",
+      "description": "Vk api version."
+    },
+    {
+      "name": "vk.confirm.url",
+      "type": "java.lang.String",
+      "description": "Confirmation url."
+    },
+    {
+      "name": "vk.callback.url",
+      "type": "java.lang.String",
+      "description": "Callback url."
+    }
+  ]
+}
